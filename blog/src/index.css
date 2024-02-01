@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+  font-family: "WantedSans-Regular",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+@font-face {
+  font-family: "WantedSans-Regular";
+  font-weight: normal;
+  src: url("./fonts/WantedSans-Regular.ttf") format("truetype");
+}
